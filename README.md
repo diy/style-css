@@ -66,28 +66,34 @@ It helps to group properties by type.
 ```css
 .my-selector {
     /* Positioning */
+    display: block;
     position: absolute;
     top: 0;
     right: 0;
     bottom: 0;
     left: 0;
+    z-index;
 
-    /* Whitespace */
+    /* Box Properties */
     margin: 5px;
     padding: 5px;
+    width: 100px;
+    height: 100px;
 
-    /* Typography */
+    /* Content in Element/Typography */
     font-family: "Apex Rounded";
     color: #333;
     line-height: 1.5;
 
-    /* Presentation */
+    /* Element itself/Presentation */
     background: #fafafa;
     border: 1px solid #ff9900;
 }
 ```
 
 Will post a full list of how to group.
+
+The section on organization is a pretty solid start https://medium.com/coding-design/3996de35389e.
 
 ## Selectors
 
