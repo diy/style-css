@@ -3,6 +3,13 @@ style-css
 
 Styleguide for writing CSS at DIY
 
+## Pre Req
+
+You should be familiar w/ these concepts:
+
+* [Object Oriented CSS](http://www.smashingmagazine.com/2011/12/12/an-introduction-to-object-oriented-css-oocss/)
+* [Single Responsbility](http://drewbarontini.com/articles/single-responsibility/?utm_source=CSS-Weekly&utm_campaign=Issue-113&utm_medium=web)
+
 ## Spacing
 
 No lines should exceed `80` characters (makes it easier to code on laptops).
